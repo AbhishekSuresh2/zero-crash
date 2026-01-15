@@ -1,3 +1,13 @@
+/**
+ * human-time-2026 v1.0.0
+ * Copyright (c) 2026 Abhishek Suresh (https://github.com/AbhishekSuresh2)
+ * Released under the MIT License.
+ * * Usage Restriction: Please do not copy, modify, and republish this 
+ * Package as your own without explicit permission. 
+ * * Contributions: Found a bug or have an idea?, Please open an issue; 
+ * Please submit a Pull Request (PR) to the official repository.
+ */
+
 const OS = require("os");
 const CRYPTO = require("crypto");
 
