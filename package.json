@@ -1,0 +1,33 @@
+{
+  "name": "zero-crash",
+  "version": "1.0.0",
+  "description": "ZeroCrаsh: the ultimate Node.js global crash guard with smart logging and disciplined exit codes.",
+  "main": "index.js",
+  "keywords": [
+    "zero-crash",
+    "crash-handler",
+    "crash-guard",
+    "error-handler",
+    "exit-codes",
+    "nodejs",
+    "node",
+    "uncaughtexception",
+    "unhandledrejection",
+    "process-safety",
+    "cli",
+    "api",
+    "bot",
+    "server",
+    "AbhishekSuresh2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekSuresh2/zero-crash.git"
+  },
+  "author": "Abhishek Suresh <your-email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbhishekSuresh2/zero-crash/issues"
+  },
+  "homepage": "https://github.com/AbhishekSuresh2/zero-crash#readme"
+}
