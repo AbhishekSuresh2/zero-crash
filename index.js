@@ -1,5 +1,5 @@
 /**
- * human-time-2026 v1.0.0
+ * zero-crash v1.0.0
  * Copyright (c) 2026 Abhishek Suresh (https://github.com/AbhishekSuresh2)
  * Released under the MIT License.
  * * Usage Restriction: Please do not copy, modify, and republish this 
